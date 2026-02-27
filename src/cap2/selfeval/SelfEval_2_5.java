@@ -5,23 +5,24 @@ import java.util.Scanner;
  * El programa calculara el producto de tres enteros.
  */
 public class SelfEval_2_5 {
-    public static void main(String[] args) throws Exception {
-        System.out.println("SelfEval 2.5, start!");
 
+/** El programa da el producto de 3 enteros */    
+    public static void main (String args[]){    
         Scanner entrada = new Scanner(System.in);
+        int x,y,z,resultado;
 
-        int x, y, z, resultado;
+        System.out.print("Inserte 1er entero: ");
+        x = entrada.nextInt();
 
-        System.out.println("Inserte el 1er entero: ");
-        x= entrada.nextInt();
+        System.out.print("Inserte 2do entero: ");
+        y = entrada.nextInt();
+        
+        System.out.print("Inserte 3er entero: ");
+        z = entrada.nextInt();
 
-        System.out.println("Inserte el 2nd entero: ");
-        y= entrada.nextInt();
+        resultado = x*y*z;
 
-        System.out.println("Inserte el 3ro entero: ");
-        z= entrada.nextInt();
+        System.out.println("El producto es: " + resultado);
 
-        resultado =  x*y*z;
-        System.out.printf("El producto es: %s", resultado);
     }
 }

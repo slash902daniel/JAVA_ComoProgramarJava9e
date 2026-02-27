@@ -1,5 +1,5 @@
 package cap3.calificaciones;
-s
+
 public class LibroCalificaciones {
 
     private String nombreDelCurso;
