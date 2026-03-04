@@ -1,4 +1,4 @@
-package cap2;
+package cap2.guia;
 
 import java.util.Scanner;
 

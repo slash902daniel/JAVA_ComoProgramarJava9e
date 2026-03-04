@@ -1,6 +1,6 @@
-package cap2.guide;
+package cap2.guia;
 
-public class operadores {
+public class Operadores {
     public static void main(String[] args) {
         System.out.println("TRY1");
         System.out.println(17/5);

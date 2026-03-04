@@ -1,7 +1,7 @@
-package cap2.guide;
+package cap2.guia;
 import java.util.Scanner;
 
-public class suma {
+public class Suma {
     
     public static void main (String [] args){
         //fig 2.7   

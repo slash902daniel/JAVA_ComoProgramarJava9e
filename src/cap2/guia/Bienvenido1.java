@@ -1,4 +1,4 @@
-package cap2.guide;
+package cap2.guia;
 
 public class Bienvenido1 {
    

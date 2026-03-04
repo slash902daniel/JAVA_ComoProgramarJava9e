@@ -1,6 +1,6 @@
 package cap2.resumen.ejercicios;
 
-public class ejercicios_p2_19 {
+public class Ejercicios_p2_19 {
 
 /*
 
