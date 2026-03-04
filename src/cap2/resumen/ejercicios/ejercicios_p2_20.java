@@ -1,4 +1,4 @@
-package cap2.ejercicios;
+package cap2.resumen.ejercicios;
 
 public class ejercicios_p2_20 {
 

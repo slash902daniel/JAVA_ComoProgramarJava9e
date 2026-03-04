@@ -1,4 +1,4 @@
-package cap2.selfeval;
+package cap2.resumen.selfeval;
 
 import java.util.Scanner;
 /**

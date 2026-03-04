@@ -1,11 +1,11 @@
-package cap2.ejercicios;
+package cap2.resumen.ejercicios;
 
 import java.util.Scanner;
 
 /**
  * El programa calculara el producto de tres enteros.
  */
-public class ejercicios_p2_15 {
+public class Ejercicios_p2_15 {
 
     /** El programa da el producto de 3 enteros */
     public static void main(String args[]) {

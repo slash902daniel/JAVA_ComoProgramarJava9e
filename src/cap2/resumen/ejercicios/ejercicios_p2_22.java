@@ -1,18 +1,20 @@
-package cap2.ejercicios;
+package cap2.resumen.ejercicios;
 
-public class ejercicios_p2_21 {
+public class ejercicios_p2_22 {
 
 /*
 
-***************
+****
+*********
+**
 
 */
 
     public static void main(String[] args) {
         System.out.print("*");
-        System.out.print("***");
+        System.out.println("***");
         System.out.print("*****");
-        System.out.print("****");
+        System.out.println("****");
         System.out.println("**");
 
     }

@@ -2,6 +2,9 @@ package cap3.cuenta;
 
 import java.util.Scanner;
 
+/**
+ * Figura 3.14
+ */
 public class PruebaCuenta {
 
     public static void main(String[] args){

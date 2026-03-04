@@ -1,4 +1,4 @@
-package cap2.ejercicios;
+package cap2.resumen.ejercicios;
 
 /**
  * El programa calculara el producto de tres enteros.

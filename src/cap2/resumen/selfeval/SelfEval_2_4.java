@@ -1,4 +1,4 @@
-package cap2.selfeval;
+package cap2.resumen.selfeval;
 
 
 public class SelfEval_2_4 {

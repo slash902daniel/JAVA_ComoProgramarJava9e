@@ -1,11 +1,11 @@
-package cap2.ejercicios;
+package cap2.resumen.ejercicios;
 
 import java.util.Scanner;
 
 /**
  * El programa calculara el producto de tres enteros.
  */
-public class ejercicios_p2_17 {
+public class Ejercicios_p2_17 {
 
     /** El programa obtiene los numeros del usuario y calcula el mayor o igual */
     public static void main(String args[]) {

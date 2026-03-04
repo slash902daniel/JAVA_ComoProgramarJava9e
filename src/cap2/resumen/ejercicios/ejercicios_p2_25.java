@@ -1,4 +1,4 @@
-package cap2.ejercicios;
+package cap2.resumen.ejercicios;
 
 import java.util.Scanner;
 

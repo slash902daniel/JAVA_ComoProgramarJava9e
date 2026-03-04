@@ -1,6 +1,6 @@
-package cap2.ejercicios;
+package cap2.resumen.ejercicios;
 
-public class ejercicios_p2_14 {
+public class Ejercicios_p2_14 {
     public static void main(String[] args) {
         ejercicio_2_14_a();
         System.out.println("-------------------------------------------");
