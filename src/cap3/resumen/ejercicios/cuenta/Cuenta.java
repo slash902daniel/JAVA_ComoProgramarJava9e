@@ -1,4 +1,4 @@
-package cap3.resumen.autoevaluacion.cuenta;
+package cap3.resumen.ejercicios.cuenta;
 
 public class Cuenta {
 

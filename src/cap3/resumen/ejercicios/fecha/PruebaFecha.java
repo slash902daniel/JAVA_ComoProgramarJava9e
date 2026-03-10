@@ -1,4 +1,4 @@
-package cap3.resumen.autoevaluacion.fecha;
+package cap3.resumen.ejercicios.fecha;
 
 public class PruebaFecha {
     public static void main(String[] args) {

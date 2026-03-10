@@ -10,6 +10,7 @@ public class PruebaLibroCalificaciones {
     public static void main( String[] args){
         //Scanner entrada = new Scanner(System.in);
 
+        //LibroCalificaciones miLibroCalificaciones0 = new LibroCalificaciones();
         LibroCalificaciones miLibroCalificaciones1 = new LibroCalificaciones("CS101 - Intro...");
         LibroCalificaciones miLibroCalificaciones2 = new LibroCalificaciones("CS102 - Intro...", "Sue Green");
 

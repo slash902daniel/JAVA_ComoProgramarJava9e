@@ -1,5 +1,8 @@
-package cap3.resumen.autoevaluacion.factura;
+package cap3.resumen.ejercicios.factura;
 
+/** 
+ * Ejercicio 3.13
+*/
 public class Factura {
     private String numeroDePieza;
     private String descripcionDePieza;

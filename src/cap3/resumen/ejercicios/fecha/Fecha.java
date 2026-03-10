@@ -1,5 +1,8 @@
-package cap3.resumen.autoevaluacion.fecha;
+package cap3.resumen.ejercicios.fecha;
 
+/** 
+ * Ejercicio 3.15
+*/
 public class Fecha {
     private int mes;
     private int dia;

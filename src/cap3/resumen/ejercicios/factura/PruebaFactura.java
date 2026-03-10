@@ -1,4 +1,4 @@
-package cap3.resumen.autoevaluacion.factura;
+package cap3.resumen.ejercicios.factura;
 
 public class PruebaFactura {
     public static void main(String[] args) {

@@ -1,5 +1,8 @@
-package cap3.resumen.autoevaluacion.calificaciones;
+package cap3.resumen.ejercicios.calificaciones;
 
+/**
+ * Ejercicio 3.11
+ */
 public class LibroCalificaciones {
 
     private String nombreDelCurso;

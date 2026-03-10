@@ -1,7 +1,10 @@
-package cap3.resumen.autoevaluacion.cuenta;
+package cap3.resumen.ejercicios.cuenta;
 
 import java.util.Scanner;
 
+/**
+ * Ejercicios 3.12
+ */
 public class PruebaCuenta {
 
     public static void main(String[] args){

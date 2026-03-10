@@ -1,4 +1,4 @@
-package cap3.resumen.autoevaluacion.calificaciones;
+package cap3.resumen.ejercicios.calificaciones;
 
 import java.util.Scanner;
 
