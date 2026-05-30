@@ -1,6 +1,14 @@
 ## From where is this taken?
 Based on the book: "Como programar Java 9ed"
 
+The workspace contains two folders by default, where:
+- `src/cap*`: the folder related to each chapter
+
+## From where is this taken - interviewexercises?
+Based on the page:
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
