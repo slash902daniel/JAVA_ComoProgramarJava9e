@@ -28,7 +28,7 @@ public class Bienvenido1 {
         System.out.println("4Bienvenido\na\nla programacion\nen java!");
 
         //fig 2.6
-        System.out.printf("%s\n%s", "5Bienvenido a", "la programacionen java!");
+        System.out.printf("%s\n%s", "5Bienvenido a", "la programacion en java!");
 
     }
 }
