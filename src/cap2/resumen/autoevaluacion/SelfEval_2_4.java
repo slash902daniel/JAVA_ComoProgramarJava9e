@@ -1,6 +1,8 @@
 package cap2.resumen.autoevaluacion;
 
-
+/**
+ * Inicia en pagina 99
+ */
 public class SelfEval_2_4 {
     public static void main(String[] args) {
         baseFix();

@@ -3,6 +3,7 @@ package cap2.resumen.autoevaluacion;
 import java.util.Scanner;
 /**
  * El programa calculara el producto de tres enteros.
+ *  * Inicia en pagina 100
  */
 public class SelfEval_2_5 {
 

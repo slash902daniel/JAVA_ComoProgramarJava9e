@@ -2,8 +2,9 @@ package cap2.resumen.autoevaluacion;
 
 import java.util.Scanner;
 
-import javax.xml.stream.events.EntityDeclaration;
-
+/**
+ * Inicia en pagina 99
+ */
 public class SelfEval_2_3 {
     public static void main(String[] args) throws Exception {
         System.out.println("SelfEval 2.3, start!");
@@ -15,9 +16,10 @@ public class SelfEval_2_3 {
          int valor = entrada.nextInt();
 
          System.out.println("Este es un programa Java");
+        
+          System.out.println("Este es un\nprograma Java");
 
-         System.out.println("Este es un");
-         System.out.println("programa Java");
+         System.out.printf("%s\n%s\n","Este es un", "programa Java");
 
          numero = valor;
          if (numero != 7 ) {
